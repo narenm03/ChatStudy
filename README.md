@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## name : NARENDHARAN.M
+### REG NO:212223230134
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
